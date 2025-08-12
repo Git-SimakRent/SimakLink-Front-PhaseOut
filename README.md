@@ -36,3 +36,4 @@ O arquivo `staticwebapp.config.json` define:
 ## Desenvolvimento
 
 Para desenvolvimento local, você precisará do código fonte original do Nuxt.js. Este diretório contém apenas os arquivos de produção.
+Ajustes no Workflow
