@@ -1,0 +1,13 @@
+{
+  "name": "simaklink-front-phaseout",
+  "version": "1.0.0",
+  "description": "SimakLink Frontend - Phase Out",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Build skipped - files already built'",
+    "start": "echo 'Static files ready for deployment'"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
