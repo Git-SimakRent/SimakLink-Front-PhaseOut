@@ -1,0 +1,1 @@
+import{M as r,u as i,q as s}from"./entry.d8c3daa0.js";var o=(e=>(e.admin="stores.roles.admin",e.viewer="stores.roles.viewer",e))(o||{});const a=r("roles",()=>{const{t:e}=i();return{lookup:s(()=>[{id:"admin",caption:e(o.admin)},{id:"viewer",caption:e(o.viewer)}])}});export{a as u};

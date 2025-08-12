@@ -1,0 +1,1 @@
+import{b as a}from"./entry.d8c3daa0.js";async function r(t){const s=a(),{data:o}=await s.client.post("recovery-password",t);return o}async function c(){const t=a(),{data:s}=await t.client.get("/list-oauth-sso");return s}export{r as f,c as l};

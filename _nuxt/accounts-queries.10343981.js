@@ -1,1 +1,0 @@
-import{b as n}from"./entry.f47474d7.js";async function s(t){const a=n(),{data:c}=await a.client.get(`accounts/${t}`);return c}async function u(t){const a=n(),{data:c}=await a.client.post(`accounts/${t}/leave`);return c}export{u as l,s};
