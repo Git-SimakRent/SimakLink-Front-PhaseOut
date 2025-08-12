@@ -1,0 +1,1 @@
+import{u as r,E as i,N as a}from"./entry.f47474d7.js";import{n as u}from"./notify.6d2dad03.js";function m(){const{t}=r();function o(s,n="success"){u({message:t(s),minHeight:50,width:"auto",minWidth:400,type:n},{position:"top center",direction:"down-push"})}function e(s){s instanceof i?o(s.messageId,"error"):o(a.fatal,"error")}return{show:o,error:e}}export{m as u};
